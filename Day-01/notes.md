@@ -1,7 +1,7 @@
 DAY 1 – NUMPY FOUNDATIONS & MATHEMATICAL THINKING FOR AI
 
 What is NumPy?
-
+ 
 NumPy (Numerical Python) is a high-performance Python library used for numerical computing. It provides efficient array structures and mathematical operations required for AI, Machine Learning, Data Science, and Scientific Computing.
 
 Why Do We Learn NumPy?
