@@ -4,7 +4,7 @@
 
 * Indexing
 * Negative Indexing
-* Slicing
+* Slicing 
 * Matrix Slicing
 * Broadcasting
 * Vectorization
