@@ -10,7 +10,7 @@ Understand the fundamentals of NumPy and the mathematical concepts that form the
 * Arrays
 * Scalars 
 * Vectors
-* Matrices
+* Matrices 
 * Dot Product
 * Basic Statistical Operations
 * Introduction to Embeddings
