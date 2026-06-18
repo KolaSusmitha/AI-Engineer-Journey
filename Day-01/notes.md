@@ -1,51 +1,103 @@
-DAY 1 – NUMPY FOUNDATIONS & MATHEMATICAL THINKING FOR AI
+# Day 1 - NumPy Foundations
 
-What is NumPy?
- 
-NumPy (Numerical Python) is a high-performance Python library used for numerical computing. It provides efficient array structures and mathematical operations required for AI, Machine Learning, Data Science, and Scientific Computing.
+## Objective
 
-Why Do We Learn NumPy?
- 
-* Faster than Python lists.
-* Memory efficient.
-* Supports vectorized operations.
-* Forms the foundation of PyTorch and TensorFlow tensors.
-* Essential for AI computations.
+Understand the fundamentals of NumPy and the mathematical concepts that form the foundation of AI systems.
 
-Key Concepts
+## Topics Covered
 
-1. Scalar
+* Introduction to NumPy
+* Arrays
+* Scalars
+* Vectors
+* Matrices
+* Dot Product
+* Basic Statistical Operations
+* Introduction to Embeddings
 
-   * A single numerical value.
-   * Example: 5, 10, 3.14
+## What I Learned
 
-2. Vector
+### NumPy
 
-   * A collection of numbers.
-   * Example: [1, 2, 3]
+NumPy (Numerical Python) is a library for numerical computing. It provides efficient array structures and optimized mathematical operations.
 
-3. Matrix
+### Scalar
 
-   * A collection of vectors arranged in rows and columns.
+A scalar is a single numerical value.
 
-Dot Product
+Example:
 
-The dot product measures interaction or similarity between vectors and is heavily used in:
+* 5
+* 10
+* 3.14
 
-* Neural Networks
-* Recommendation Systems
-* Embeddings
-* Transformers
+### Vector
 
-AI Applications
+A vector is an ordered collection of numbers.
 
-* Computer Vision
-* Natural Language Processing
-* Deep Learning
-* Recommendation Systems
-* Large Language Models
+Example:
 
-Key Takeaway
+* [1, 2, 3]
 
-Every AI model ultimately operates on numbers represented as vectors, matrices, and tensors.
+Vectors are widely used in AI to represent features, embeddings, and model inputs.
 
+### Matrix
+
+A matrix is a collection of vectors arranged in rows and columns.
+
+Example:
+
+[[1, 2, 3],
+[4, 5, 6]]
+
+Matrices are used to store datasets, neural network weights, and transformations.
+
+### Dot Product
+
+The dot product measures the interaction between two vectors.
+
+Applications:
+
+* Similarity calculations
+* Recommendation systems
+* Neural networks
+* Transformer attention mechanisms
+
+### Embeddings
+
+An embedding is a vector representation that captures the meaning of data.
+
+Examples:
+
+* Words
+* Sentences
+* Images
+* Documents
+
+Similar concepts tend to have similar embeddings.
+
+## AI Connection
+
+AI models cannot directly understand text, images, or audio. These inputs are converted into numerical representations such as vectors and embeddings before processing.
+
+Example:
+
+Text → Tokens → Embeddings → Neural Network/Transformer → Output
+
+## Practical Exercises Completed
+
+* Created NumPy arrays
+* Created matrices
+* Calculated shapes
+* Performed vector addition
+* Performed vector multiplication
+* Calculated dot products
+* Computed statistical measures
+
+## Key Takeaways
+
+* NumPy is the foundation of numerical computing in AI.
+* Vectors and matrices are fundamental data structures in machine learning.
+* Dot products are essential for similarity calculations and attention mechanisms.
+* Embeddings are vector representations that capture meaning.
+* Modern AI systems operate on numerical representations rather than raw text.
