@@ -8,7 +8,7 @@ Understand the fundamentals of NumPy and the mathematical concepts that form the
 
 * Introduction to NumPy
 * Arrays
-* Scalars
+* Scalars 
 * Vectors
 * Matrices
 * Dot Product
