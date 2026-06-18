@@ -48,3 +48,4 @@ AI Applications
 Key Takeaway
 
 Every AI model ultimately operates on numbers represented as vectors, matrices, and tensors.
+
